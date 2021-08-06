@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @isaiah-gordon
 - 🍟 I'm an Operations Technology Professional at McDonald's 
-- 👀 I’m interested in the world wide web
-- 🌱 I’m currently learning Three.JS
-- 💞️ I’m looking to collaborate on cool web apps
-- 📫 You can reach me at isaiah.gordon.developer@gmail.com
+- 👀 You should checkout my website over at https://www.isaiah-gordon.com
