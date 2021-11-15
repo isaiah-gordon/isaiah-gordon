@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @isaiah-gordon
-- 🍟 I'm an Operations Technology Professional at McDonald's 
+- 👨🏽‍💻 I'm a Junior Front-End Developer at POWERSHiFTER 
 - 👀 You should checkout my website over at https://www.isaiah-gordon.com
